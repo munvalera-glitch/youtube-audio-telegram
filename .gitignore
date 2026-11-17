@@ -1,0 +1,23 @@
+# Python
+.venv/
+.uv_python/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Secrets & Environment
+.env
+cookies.txt
+*.db
+
+# Downloads
+downloads/
+*.part
+*.ytdl
+
+# Pytest / Cache
+.pytest_cache/
+ocr_tool
+.DS_Store
